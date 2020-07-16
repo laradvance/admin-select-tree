@@ -1,9 +1,9 @@
 {
-    "name": "zhpefe/select-tree",
+    "name": "laradvance/admin-select-tree",
     "description": "laravel-admin select-tree",
     "type": "library",
     "keywords": ["laravel-admin", "select-tree"],
-    "homepage": "https://github.com/zhpefe/select-tree",
+    "homepage": "https://github.com/laradvance/admin-select-tree",
     "license": "MIT",
     "authors": [
         {
